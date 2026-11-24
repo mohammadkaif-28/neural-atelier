@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+Neural-Atelier-GitHub.zip
+static/uploads/
+content_data/
+style_data/
+experiment/*
+!experiment/final_exp/
+!experiment/pilot_600/
+experiment/final_exp/*
+!experiment/final_exp/decoder_final.pth
+experiment/pilot_600/*
+!experiment/pilot_600/decoder_step_000200.pth
